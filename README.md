@@ -12,13 +12,12 @@ Privilege App is a comprehensive system designed to manage courses, students, an
 Here are some screenshots of the project:
 
 ### Dashboard Overview
-![Dashboard Overview](images\admin_panel.png)
+![Dashboard Overview](images/admin_panel.png)
 
-### Mobile App 
-![Course Management](images\)
+![Course Management](images/universities.png)
 
-
-## Technologies Used
+## Mobile App 
+### Technologies Used
 - **Backend:** Laravel
 - **Frontend:** Flutter
 - **Database:** MySQL
